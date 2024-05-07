@@ -4,5 +4,6 @@
 /**
  * 
  */
-module myproject {
+module JDBC {
+	requires java.sql;
 }
